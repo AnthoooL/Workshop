@@ -83,7 +83,8 @@ $result = $conn->query($sql);
 
 
 
-    <div id="content">
+    <div id="content">^
+        
         <h1>Messages</h1>
 
         <!-- Formulaire pour envoyer un message -->
